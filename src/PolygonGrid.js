@@ -8,7 +8,6 @@ import { throws } from "assert";
 const PolygonGridWrapper = styled.div`
   display: block;
   width: 3919px;
-  // animation: slide 10s linear infinite;
 }
 `;
 
